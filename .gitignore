@@ -1,0 +1,27 @@
+# Large archives / installers
+*.tgz
+*.tar.gz
+*.zip
+*.exe
+
+# Videos and heavy binaries
+*.mp4
+*.mov
+*.mkv
+
+# Dataset dumps and generated big outputs
+olist_data/
+pig_output/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark temp
+spark-warehouse/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
