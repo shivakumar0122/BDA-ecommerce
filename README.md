@@ -1,4 +1,4 @@
-# BDA E-Commerce Sales Analytics Pipeline
+Rainfall Pattern Analytics Pipeline
 
 This repository contains the implementation artifacts for a Big Data Analytics project using Hadoop ecosystem tools on the Olist e-commerce dataset.
 
